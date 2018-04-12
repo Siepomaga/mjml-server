@@ -7,7 +7,7 @@ $ npm install -g mjml-server
 # Usage
 
 ```
-$ mjml_server -h
+$ mjml-server -h
 
   Usage: mjml-server [options]
 
