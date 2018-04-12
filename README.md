@@ -9,7 +9,7 @@ $ npm install -g mjml-server
 ```
 $ mjml_server -h
 
-  Usage: mjml_server [options]
+  Usage: mjml-server [options]
 
   Options:
 

@@ -1,12 +1,12 @@
 {
   "name": "mjml-server",
   "description": "MJML server: Make mjml fast again",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": "MIT",
   "author": "Siepomaga",
   "main": "lib/index.js",
   "bin": {
-    "mjml_server": "bin/mjml_server"
+    "mjml-server": "bin/mjml-server"
   },
   "repository": {
     "type": "git",
